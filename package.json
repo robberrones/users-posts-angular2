@@ -1,0 +1,28 @@
+{
+  "name": "users-posts-angular2",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "This project is a basic interface to display users and their posts to a forum.",
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robberrones/users-posts-angular2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robberrones/users-posts-angular2/issues",
+    "email": "sellouttonight@gmail.com"
+  },
+  "author": {
+    "name": "Rob Berrones",
+    "email": "sellouttonight@gmail.com",
+    "url": ""
+  },
+  "contributors": [
+    { "name": "Rob Berrones", "email": "sellouttonight@gmail.com" }
+  ],
+  "license": "MIT"
+}
